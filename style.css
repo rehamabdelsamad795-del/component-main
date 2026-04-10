@@ -29,14 +29,16 @@ body
    padding: 1rem;
 }
 .card h2{
-    font-size: 25px;
-    margin-top: 15px;
-
+      font-size: 22px;  
+    margin-top: 1rem;
+    margin-bottom: 0.75rem;
+    color: #1f314f;  
 }
 .card p{
-      font-size: 18px;
-      color: gray;
-       margin-top: 10px;
+     font-size: 17px; 
+    color: #6c7a91;        
+    margin-top: 0;
+    line-height: 1.4;
 }
 .container {
   width: 100%;
@@ -53,21 +55,14 @@ body
       .card h2 {
          
       
-        font-size: 0.9px;
+        font-size: 25px;
      }
      .card p
      {
-        font-size: 1.25px;
+        font-size: 19px;
 
      }
 
     }
 
 
-
-}
-.card p{
-      font-size: 18px;
-      color: gray;
-       margin-top: 10px;
-}
